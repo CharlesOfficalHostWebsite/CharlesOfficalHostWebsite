@@ -1,9 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Charles</h1>
 <h3 align="center">Data Analyst | Aspiring Data Scientist</h3>
+
 - 👀 I’m interested in data science, storytelling with data, and turning raw numbers into actionable insights.
+
 - 🌱 I’m currently learning **Machine Learning**, **Python (Advanced)**, and **Storytelling with Data**
+  
 - 💞️ I’m looking to collaborate on on data analysis projects, open-source visualizations, and anything that combines data and impact.
+  
 - 📫 How to reach me [LinkedIn](www.linkedin.com/in/amadico) | obinnac562@gmail.com
+  
 - ⚡ Fun fact: I used to decode cheap flight bookings as a hobby — now I decode data for real-world insights ✈️📊
 
 ---
