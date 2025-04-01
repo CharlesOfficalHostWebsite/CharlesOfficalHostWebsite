@@ -8,8 +8,6 @@
 - 💞️ I’m looking to collaborate on on data analysis projects, open-source visualizations, and anything that combines data and impact.
   
 - 📫 How to reach me <a href="https://www.linkedin.com/in/yourname/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn" /></a> | obinnac562@gmail.com
-  
-- ⚡ Fun fact: I used to decode cheap flight bookings as a hobby — now I decode data for real-world insights ✈️📊
 
 ---
 
